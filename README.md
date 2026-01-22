@@ -12,38 +12,33 @@ My journey into cybersecurity started off by getting a degree from the Universit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Microsoft Azure IAM Project                   | <a href="https://google.com">IAM Project</a>|
-| Microsoft Azure Network Security & Key Vault Protection | <a href="https://google.com">Detection Lab</a>|
+| Microsoft Azure Network Security & Key Vault Protection | <a href="https://google.com">Network Security & Key Vault Protection Project</a>|
 
 
-## Tools
+## Tools/Skills
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-2E7EEA?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
-</div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Azure_Entra_ID-0078D4?&style=for-the-badge&logo=microsoftentra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Purview-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+
+
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SC--900-5B5FC7?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- IAM Project
+- Network Security & Key Vault Protection Project
