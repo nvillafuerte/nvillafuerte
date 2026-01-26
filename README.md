@@ -12,7 +12,7 @@ My journey into cybersecurity started off by getting a degree from the Universit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Microsoft Azure IAM Project                   | <a href="https://google.com">IAM Project</a>|
-| Microsoft Azure Network Security & Key Vault Protection | <a href="https://google.com">Network Security & Key Vault Protection Project</a>|
+
 
 
 ## Tools/Skills
